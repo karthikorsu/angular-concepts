@@ -1,5 +1,5 @@
 # angular-concepts
-Concepts essential to learn angular js
+Project which deals with the angular concepts and the dependencies of angular framework.
 
 ## Things required to learn Angular 1.x
 * Node js - NPM / Bower
